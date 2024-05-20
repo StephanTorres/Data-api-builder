@@ -65,6 +65,6 @@
     <PackageVersion Include="Npgsql" Version="7.0.7" />
   </ItemGroup>
   <ItemGroup>
-    <GlobalPakcgaeReference Include="StyleCop.Analyzers" Version="1.1.118" />
+    <GlobalPackageReference Include="StyleCop.Analyzers" Version="1.1.118" />
   </ItemGroup>
 </Project>
